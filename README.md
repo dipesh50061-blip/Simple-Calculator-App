@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-A simple calculator app made using Python and Tkinter.
+A simple calculator app made using Python and Jupyter Notebook.
 
 ## Features
 - Addition
@@ -11,7 +11,7 @@ A simple calculator app made using Python and Tkinter.
 
 ## Technologies Used
 - Python
-- Tkinter
+- Jupyter Notebook
 
 ## Author
-Dipesh
+Depesh
